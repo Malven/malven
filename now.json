@@ -5,5 +5,3 @@
 	"name": "beta.malven.se",
 	"builds": [{ "src": "package.json", "use": "@now/static-build" }]
 }
-
-"now-build": "react-app-rewired build && mv build dist"
