@@ -1,0 +1,27 @@
+{
+	// "parser": "babel-eslint",
+	"extends": "react-app"
+	// "plugins": ["react"],
+	// "env": {
+	// 	"browser": true,
+	// 	"es6": true
+	// },
+	// "parserOptions": {
+	// 	"ecmaVersion": 6,
+	// 	"ecmaFeatures": {
+	// 		"jsx": true
+	// 	},
+	// 	"sourceType": "module"
+	// },
+	// "globals": {
+	// 	"__DEV__": false,
+	// 	"__PROD__": false,
+	// 	"__DEBUG__": false,
+	// 	"__DEBUG_NW__": false
+	// },
+	// "rules": {
+	// 	"jsx-a11y/href-no-hash": 0,
+	// 	"no-useless-escape": 0,
+	// 	"object-property-newline": "warn"
+	// }
+}

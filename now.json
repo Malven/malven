@@ -1,0 +1,9 @@
+{
+	"version": 2,
+	"alias": ["beta.malven.se"],
+	"regions": ["bru"],
+	"name": "beta.malven.se",
+	"builds": [{ "src": "package.json", "use": "@now/static-build" }]
+}
+
+"now-build": "react-app-rewired build && mv build dist"
