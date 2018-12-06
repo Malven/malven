@@ -3,5 +3,6 @@
 	"alias": ["beta.malven.se"],
 	"regions": ["bru1"],
 	"name": "beta.malven.se",
-	"builds": [{ "src": "package.json", "use": "@now/static-build" }]
+	"builds": [{ "src": "package.json", "use": "@now/static-build" }],
+	"config": { "distDir": "www" }
 }
